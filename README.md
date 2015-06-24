@@ -18,9 +18,8 @@ More information on the ArcGIS for Maritime: Charting product
 1.	Install ArcGIS for Desktop on your computer
 2.	Install the ArcGIS for Maritime: Charting extension
 (see [http://www.esri.com/software/arcgis/extensions/maritime/charting/pricing]( http://www.esri.com/software/arcgis/extensions/maritime/charting/pricing) for information in how to contact Esri or your local distributor)
-3.	Clone or Download the .zip file.
-4.	Extract the content of the zip file locally.
-5.	Follow the instructions and exercises in the document ‘ArcGIS for Maritime Charting Quick Tutorial.docx’
+3.	Clone or Download the .zip file (buttons on the right of this page)
+4.	Follow the instructions and exercises in the document ‘tutorial/ArcGIS for Maritime Charting Quick Tutorial.docx’
 
 ## Requirements
 
