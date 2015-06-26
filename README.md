@@ -19,7 +19,7 @@ More information on the ArcGIS for Maritime: Charting product
 2.	Install the ArcGIS for Maritime: Charting extension
 (see [http://www.esri.com/software/arcgis/extensions/maritime/charting/pricing]( http://www.esri.com/software/arcgis/extensions/maritime/charting/pricing) for information on how to contact Esri or your local distributor)
 3.	Clone or Download the .zip file (buttons on the right of this page)
-4.	Follow the instructions and exercises in the document ‘Tutorial/ArcGIS for Maritime Charting Quick Tutorial.pdf’
+4.	Follow the instructions and exercises in the document [Tutorial/ArcGIS for Maritime Charting Quick Tutorial.pdf](Tutorial/ArcGIS for Maritime Charting Quick Tutorial.pdf)
 
 ## Requirements
 
@@ -28,7 +28,7 @@ More information on the ArcGIS for Maritime: Charting product
 
 ## Resources
 
-* [ArcGIS for Maritime: Charting product page]( http://www.esri.com/software/arcgis/extensions/maritime/charting)
+* [ArcGIS for Maritime: Charting product page](http://www.esri.com/software/arcgis/extensions/maritime/charting)
 * [ArcGIS Blog](http://blogs.esri.com/esri/arcgis/)
 * [twitter@esri](http://twitter.com/esri)
 
