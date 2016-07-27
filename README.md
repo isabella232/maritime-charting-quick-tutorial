@@ -1,9 +1,7 @@
 # maritime-charting-quick-tutorial
 
 The purpose of this tutorial is to guide you through the basic process of importing, creating and exporting S-57 products in ArcGIS for Maritime: Charting. You will learn how to ingest an S-57 file into the Esri geodatabase, create an S-57 product in the Esri product management system, and export an S-57 file back out of the geodatabase. 
-More information on the ArcGIS for Maritime: Charting product:
-
-[here](http://www.esri.com/software/arcgis/extensions/maritime/charting).
+More information on the ArcGIS for Maritime: Charting product [here](http://www.esri.com/software/arcgis/extensions/maritime/charting).
 
 
 ![App](Alaska_MCS_small.png)
