@@ -9,7 +9,7 @@ More information on the ArcGIS for Maritime: Charting product [here](http://www.
 ## Features
 * Exercise 1: Exporting an ENC product
 * Exercise 2: Creating a new ENC product and exporting a New Edition
-* Exercise 3: Importing an S-57 file, creating a new product, and exporting a New Dataset
+* Exercise 3: Importing an S-57 file, creating a new product, and exporting a new dataset
 
 ## Instructions
 
